@@ -8,6 +8,7 @@
 - instalar dependências do projeto (npm install)
 
 - instalar biblioteca de ícones (npm i phosphor-react)
+- instalar biblioteca de manipulação de datas (npm install date-fns)
 
 ## DEV
 
