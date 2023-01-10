@@ -18,6 +18,7 @@
 ### Extensions
 
 - CSS Modules
+- React Developer Tools/ React Native Tools
 
 ### Notas
 
