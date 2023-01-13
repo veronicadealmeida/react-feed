@@ -3,7 +3,7 @@
 ## Pré-requisitos
 
 - node
-- vite (npm vite@latest [Y | nome-do-projeto | React | JavaScript])
+- vite (npm vite@latest [Y | nome-do-projeto | React | JavaScript | TypeScript])
 
 - instalar dependências do projeto (npm install)
 
